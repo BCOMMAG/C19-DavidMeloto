@@ -121,7 +121,7 @@ export function Hero() {
           {/* Headline Principal */}
           <h1 className="font-heading text-2xl sm:text-3xl md:text-4xl lg:text-[2.85rem] xl:text-[3.25rem] leading-[1.16] sm:leading-[1.14] tracking-tight text-white font-bold drop-shadow-[0_2px_14px_rgba(0,0,0,0.85)]">
             Defesa ágil,{" "}
-            <span className="text-[#C5A059] relative font-extrabold underline decoration-[#C28175]/70 underline-offset-4">
+            <span className="text-[#C5A059] relative font-extrabold">
               estratégica e intransigente
             </span>{" "}
             dos seus direitos trabalhistas e patrimoniais.
